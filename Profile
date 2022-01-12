@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @GabrielMelo13
+- 👀 I’m interested in start my career
+- 🌱 I’m currently learning database sql, and java
+- 💞️ I’m looking to collaborate on all things i can  
+- 📫 How to reach me mjosegabriel13@gmail.com
+
+<!---
+GabrielMelo13/GabrielMelo13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
